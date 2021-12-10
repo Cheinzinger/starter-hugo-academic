@@ -27,9 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Clinical Research Scholars Program
+  - course: Clinical Research Scholars Program (MS Program)
     institution: Case Western Reserve University
-    year: 2023 (anticipated MS)
+    year: anticipated 2023
   - course: Doctor of Osteopathic Medicine (DO)
     institution: New York Institute of Technology College of Osteopathic Medicine
     year: 2017
