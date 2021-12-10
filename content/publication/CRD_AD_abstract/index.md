@@ -1,23 +1,24 @@
 ---
-title: "Unique Sleep and Circadian Rhythm Dysfunction Neuroinflammatory and Immune Profiles in Alzheimer's Disease with Mild Cognitive Impairment"
+title: "Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Impairment in Alzheimer’s Dementia"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Pillai JA, Bena J, Bekris LM, Foldvary-Schaefer N, Heinzinger C, Rao S, Rao SM, Leverenz JB, Mehra R
+- admin
+- Wang L, Bena J, Bekris LM, Foldvary-Schaefer N, Pillai JA, Sujata Rao, Stephen Rao, Leverenz JB, Mehra R
 
-date: "2021-06-06T00:00:00Z"
-doi: "10.3233/JAD-201573"
+date: "2021-05-03T00:00:00Z"
+doi: "https://doi.org/10.1093/sleep/zsab072.420"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 3 = Abstract; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Unique Sleep and Circadian Rhythm Dysfunction Neuroinflammatory and Immune Profiles in Alzheimer's Disease with Mild Cognitive Impairment
+publication: Elucidating Circadian and Sleep Phenotypes and Relation to Cognitive Impairment in Alzheimer’s Dementia
 
 tags: []
 
@@ -27,7 +28,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8179975/
+#   url: https://academic.oup.com/sleep/article-abstract/44/Supplement_2/A166/6260550
 
 url_pdf: ''
 url_code: ''
