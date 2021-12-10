@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: T32 Research Scholar
+    company: Cleveland Clinic Neurological Institute Sleep Disorders Center
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: OH
+    date_start: '2020-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Supporting Multidisciplinary Achievement in Respiratory Research Training (SMARRT) grant
+        * PI: Raed Dweik, MD MBA
+        * Primary Mentor: Reena Mehra, MD MS
+  
+  - title: Sleep Medicine Fellow
+    company: Cleveland Clinic Neurological Institute Sleep Disorders Center
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: OH
+    date_start: '2020-07-01'
+    date_end: '2021-07-16'
+    description:
+        
+  - title: Family Medicine Resident
+    company: Stamford Health
+    company_url: ''
+    company_logo: 
+    location: CT
+    date_start: '2017-07-01'
+    date_end: '2020-06-30'
+    description: 
 
 design:
   columns: '2'
