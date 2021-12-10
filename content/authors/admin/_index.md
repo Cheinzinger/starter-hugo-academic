@@ -16,7 +16,7 @@ organizations:
   url: https://case.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cardiovascular consequences of disordered sleep.
+bio: My research interests lie at the intersection of sleep and circadian science and cardiovascular health.
 
 # Interests to show in About widget
 interests:
@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Clinical Research Scholars Program (MS Program)
+  - course: Clinical Research Scholars Program (MS)
     institution: Case Western Reserve University
     year: anticipated 2023
   - course: Doctor of Osteopathic Medicine (DO)
     institution: New York Institute of Technology College of Osteopathic Medicine
     year: 2017
-  - course: BS in Integrative Neuroscience
+  - course: Integrative Neuroscience (BS)
     institution: Binghamton University
     year: 2013
 

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Catherine Heinzinger, DO # Website name
-baseurl: 'https://drheinzinger.netlify.app/' # Website URL
+baseurl: 'https://drheinzingercom/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -56,7 +56,9 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
 related:
   threshold: 80
   includeNewer: true
