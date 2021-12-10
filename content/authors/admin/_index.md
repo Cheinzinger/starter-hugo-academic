@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Catherine Heinzinger, DO
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Physician Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Cleveland Clinic
+  url: https://my.clevelandclinic.org/
+- name: Case Western Reserve University
+  url: https://case.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cardiovascular consequences of disordered sleep.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sleep Medicine
+- Clinical Research
+- Writing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Clinical Research Scholars Program
+    institution: Case Western Reserve University
+    year: 2023 (anticipated MS)
+  - course: Doctor of Osteopathic Medicine (DO)
+    institution: New York Institute of Technology College of Osteopathic Medicine
+    year: 2017
+  - course: BS in Integrative Neuroscience
+    institution: Binghamton University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
