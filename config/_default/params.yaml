@@ -34,6 +34,10 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/DrHeinZzzinger'
+  - icon: instagram
+    icon_pack: fab
+    name: Instagram
+    link: 'https://www.instagram.com/drheinzzzinger/'
   - icon: google-scholar
     icon_pack: ai
     name: Google Scholar

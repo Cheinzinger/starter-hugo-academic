@@ -21,7 +21,7 @@ bio: My research interests lie at the intersection of sleep and circadian scienc
 # Interests to show in About widget
 interests:
 - Sleep Medicine
-- Clinical Research
+- Clinical and Translational Research
 - Writing
 
 # Education to show in About widget
@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrHeinZzzinger
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/drheinzzzinger
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=2jzUnQEAAAAJ&hl=en
